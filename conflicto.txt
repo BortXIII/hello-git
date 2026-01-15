@@ -1,1 +1,1 @@
-LINEA=feature
+LINEA=resuelta
