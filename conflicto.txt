@@ -1,1 +1,1 @@
-LINEA=develop-2
+LINEA=resuelta
